@@ -8,4 +8,4 @@ var tableItems = ['bottle', 'pen', 'mouse', 'sunglass', 'paper'];
 var position = tableItems.indexOf('bottle');
 var item3 = tableItems[3];
 
-console.log(position); 
+console.log(position);
